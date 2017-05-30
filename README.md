@@ -1,5 +1,11 @@
 # C-Sharp-Windows-Application-SimpleGame
 
+
+
+![a1screenshot](https://cloud.githubusercontent.com/assets/27964815/26600098/c849fc84-4548-11e7-8c5f-b42f28d86579.PNG)
+
+
+
 1. Using radio buttons to display 4-5 sports teams in each group. 
 2. User selects a team from each group, display their names in the right side as: Selected Team 1 vs Selected Team 2.
 3. Display flags of the selected teams.
@@ -11,6 +17,3 @@
 9. The Close button should close the application. 
 10. Change the icon in the title bar of the form from a default icon to something else. 
 11. Disable the Maximum button in the title bar.
-
-
-![a1screenshot](https://cloud.githubusercontent.com/assets/27964815/26600098/c849fc84-4548-11e7-8c5f-b42f28d86579.PNG)
