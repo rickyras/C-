@@ -1,0 +1,9 @@
+C:\Users\Ritchie\Desktop\NET\A1RitchiePerera\A1RitchiePerera\bin\Debug\A1RitchiePerera.exe.config
+C:\Users\Ritchie\Desktop\NET\A1RitchiePerera\A1RitchiePerera\bin\Debug\A1RitchiePerera.exe
+C:\Users\Ritchie\Desktop\NET\A1RitchiePerera\A1RitchiePerera\bin\Debug\A1RitchiePerera.pdb
+C:\Users\Ritchie\Desktop\NET\A1RitchiePerera\A1RitchiePerera\obj\Debug\A1RitchiePerera.Form1.resources
+C:\Users\Ritchie\Desktop\NET\A1RitchiePerera\A1RitchiePerera\obj\Debug\A1RitchiePerera.Properties.Resources.resources
+C:\Users\Ritchie\Desktop\NET\A1RitchiePerera\A1RitchiePerera\obj\Debug\A1RitchiePerera.csproj.GenerateResource.Cache
+C:\Users\Ritchie\Desktop\NET\A1RitchiePerera\A1RitchiePerera\obj\Debug\A1RitchiePerera.exe
+C:\Users\Ritchie\Desktop\NET\A1RitchiePerera\A1RitchiePerera\obj\Debug\A1RitchiePerera.pdb
+C:\Users\Ritchie\Desktop\NET\A1RitchiePerera\A1RitchiePerera\obj\Debug\A1RitchiePerera.csprojResolveAssemblyReference.cache
