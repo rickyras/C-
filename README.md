@@ -1,4 +1,4 @@
-# C-
+# C-Sharp-Windows-Application-SimpleGame
 
 1. Using radio buttons to display 4-5 sports teams in each group. 
 2. User selects a team from each group, display their names in the right side as: Selected Team 1 vs Selected Team 2.
